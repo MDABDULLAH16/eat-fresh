@@ -1,0 +1,29 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.title-color{
+    color: #FBA24F;
+}
+h1{
+    font-weight: 400px;
+    font-size: 60px;
+    line-height: 130%;
+}
+.top-banner{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.half-width{
+    width: 40%;
+}
+.half-width img{
+    width: 100%;
+}
+.btn-color{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    border-radius: 100px;
+    padding: 10px 20px;
+}
